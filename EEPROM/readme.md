@@ -1,0 +1,1 @@
+- [How to remove/install an EEPROM 101](https://youtu.be/HXvPjf0vodU)
