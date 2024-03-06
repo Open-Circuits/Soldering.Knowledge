@@ -1,3 +1,6 @@
+# Fundamentals
+- [Beginner's Guide to Soldering Electronics Part 1](https://youtu.be/M2Jf8cebwCs)
+
 # Buying Guide:
 - [What to look for in a soldering iron used for electronic repair](https://youtu.be/84FA-zn0u9M)
 
