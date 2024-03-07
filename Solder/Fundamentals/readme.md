@@ -1,0 +1,1 @@
+- [Choosing The Right Solder, Tech Tips Tuesday.](https://youtu.be/V1aONINVkSE)
