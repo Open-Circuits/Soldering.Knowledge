@@ -1,0 +1,1 @@
+- [SMD Soldering Tutorial | Guide | Tools | Tecniques | Stencil](https://youtu.be/fYInlAmPnGo)
