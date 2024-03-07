@@ -4,4 +4,4 @@
 - [SMD Soldering Tutorial | Guide | Tools | Tecniques | Stencil](https://youtu.be/fYInlAmPnGo)
 - [EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount](https://youtu.be/b9FC9fAlfQE)
 - [How to do SMD Reflow Soldering properly! || Hot Air VS Sand VS Reflow Oven](https://youtu.be/DYrucIWig24)
-- 
+- [How to Solder properly || Through-hole (THT) & Surface-mount (SMD)](https://youtu.be/VxMV6wGS3NY)
