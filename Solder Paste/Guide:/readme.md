@@ -1,0 +1,1 @@
+- [Easy Solder Paste Technique without Stencil](https://youtu.be/xPFujTJbUkI)
