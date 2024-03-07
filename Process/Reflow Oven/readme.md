@@ -1,1 +1,5 @@
 - [How to do SMD Reflow Soldering properly! || Hot Air VS Sand VS Reflow Oven](https://youtu.be/DYrucIWig24)
+- [SMD Soldering in a Toaster Oven - No Modifications!](https://youtu.be/yZqrrq6VpKY)
+- [EEVblog #415 - SMD Stencil Reflow Soldering Tutorial](https://youtu.be/qyDRHI4YeMI)
+- [EEVblog #558 - Beta Layout DIY SMD Thermal Reflow Oven](https://youtu.be/FNNRoXZom30)
+- [turn any toaster oven into a reflow oven!](https://youtu.be/k9xzGO0SVg0)
