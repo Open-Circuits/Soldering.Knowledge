@@ -1,1 +1,7 @@
 - [SMD Soldering Tutorial | Guide | Tools | Tecniques | Stencil](https://youtu.be/fYInlAmPnGo)
+- [How to Solder QFN MLF chips Using Hot Air without Solder Paste and Stencils](https://youtu.be/c_Qt5CtUlqY)
+- [How to Solder QFN MLF Package by Hand (Using a Hot Air Rework Station) | Digi-Key Electronics](https://youtu.be/X3Rc1s6EpSI)
+- [SMD Soldering Tutorial | Guide | Tools | Tecniques | Stencil](https://youtu.be/fYInlAmPnGo)
+- [EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount](https://youtu.be/b9FC9fAlfQE)
+- [How to do SMD Reflow Soldering properly! || Hot Air VS Sand VS Reflow Oven](https://youtu.be/DYrucIWig24)
+- 
