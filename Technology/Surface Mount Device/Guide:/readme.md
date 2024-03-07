@@ -5,3 +5,4 @@
 - [EEVblog #186 - Soldering Tutorial Part 3 - Surface Mount](https://youtu.be/b9FC9fAlfQE)
 - [How to do SMD Reflow Soldering properly! || Hot Air VS Sand VS Reflow Oven](https://youtu.be/DYrucIWig24)
 - [How to Solder properly || Through-hole (THT) & Surface-mount (SMD)](https://youtu.be/VxMV6wGS3NY)
+- [Beginner's Guide to Soldering Electronics Part 3: Surface Mount Solderin](https://youtu.be/o8UmA6oC_tU)
